@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Sam Nguyen
+name: CS371p Fall 2016&#58; Sam Nguyen
 
 # Short bio or description (displayed in the header)
-description: CS Student at the University of Texas in Austin
+description: CS Student at UT
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: tsnguyen947.github.io/images/university-of-texas-at-austin.png
+avatar: images/avatar.png
 
 #
 # Flags below are optional
@@ -18,7 +18,7 @@ avatar: tsnguyen947.github.io/images/university-of-texas-at-austin.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: tsnguyen@utexas.edu
+  email:
   facebook:
   flickr:
   github: tsnguyen947
@@ -37,7 +37,7 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: UA-83272148-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
