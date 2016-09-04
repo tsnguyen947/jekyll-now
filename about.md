@@ -4,11 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I'm a third year CS student at UT Austin and I'm interested in Computer Vision and Data Science
 
 ### Contact me
 
